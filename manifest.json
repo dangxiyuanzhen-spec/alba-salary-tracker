@@ -1,0 +1,18 @@
+{
+  "name": "한국 편의점 알바 급여관리",
+  "short_name": "알바급여",
+  "description": "편의점 알바·근무 기록과 급여를 관리하는 앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12172B",
+  "theme_color": "#12172B",
+  "lang": "ko",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
